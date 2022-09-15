@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coregradle.iml" filepath="$PROJECT_DIR$/.idea/modules/coregradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coregradle.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coregradle.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coregradle.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coregradle.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coregradle.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coregradle.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/coregradle.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/coregradle.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.iml" filepath="$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/coregradle/coregradle.coregradle.unitTest.iml" />
+    </modules>
+  </component>
+</project>
